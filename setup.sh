@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cat log* > slack.dmg
+cat part_* > slack.dmg
 open ./slack.dmg
